@@ -1,4 +1,13 @@
 ### Hi there 👋
+  I am a working professional with around 9 years of experience widely worked on Java, Javascript.
+
+- :clipboard: I’m currently working on assertj-core.
+- :blue_book: I’m currently learning React.
+- :black_nib: I write blogs on www.next4j.com
+- :email: How to reach me: himadri@next4j.com.
+- 💬 Ask me about Java, Spring, Spring boot.
+
+
 
 <!--
 **himadri-mandal/himadri-mandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
