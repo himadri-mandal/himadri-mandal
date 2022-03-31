@@ -1,10 +1,10 @@
 ### Hi there 👋
   I am a working professional with around 9 years of experience widely worked on Java, Javascript.
 
-- :clipboard: I’m currently working on assertj-core.
+- :clipboard: Re-Designing efficient library for devs.
 - :blue_book: I’m currently learning React.
-- :black_nib: I write blogs on www.next4j.com
-- :email: How to reach me: himadri@next4j.com.
+- :black_nib: I write blogs on https://medium.com/@himadri1800
+- :email: How to reach me: himadri1800@gmail.com.
 - 💬 Ask me about Java, Spring, Spring boot.
 
 
